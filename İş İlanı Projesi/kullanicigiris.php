@@ -89,7 +89,7 @@ include("baglanti.php");
 				<hr>
 				<h2>Başvuru Paneli</h2>
 
-								<!-- 6. Kısım -->
+								
 				<form action="kullanicigiris.php" method="post">
 					<label for="kSorgu">Cevapları görüntülemek için göser butonuna tıklayınız</label>
 
