@@ -63,7 +63,7 @@ include("baglanti.php");
 
 
 			// İşlemlerden GET değeri döndürüyoruz. Bu sayede işlem durumunu takip edebiliyoruz
-			// 2. Kısım
+		
 			if ($_GET['sonuc']=="no") {
 				echo "<br>";
 
